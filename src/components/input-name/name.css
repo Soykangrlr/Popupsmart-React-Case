@@ -1,0 +1,12 @@
+.form-name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #9BB7D4;
+}
+.form-name form input{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
